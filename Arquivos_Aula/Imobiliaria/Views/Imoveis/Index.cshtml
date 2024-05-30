@@ -1,0 +1,61 @@
+@model IEnumerable<Imobiliaria.Models.Imoveis>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Imoveis Cadastrados</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Valor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Endereco)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Bairro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Valor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Endereco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bairro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                <a class="button-link" asp-action="Edit" asp-route-id="@item.Id">Edit</a> 
+                <a class="button-link" asp-action="Details" asp-route-id="@item.Id">Details</a> 
+                <a class="button-link" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
