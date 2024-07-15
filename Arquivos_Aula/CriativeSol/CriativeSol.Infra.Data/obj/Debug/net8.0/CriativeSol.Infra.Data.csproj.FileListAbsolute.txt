@@ -1,0 +1,15 @@
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\bin\Debug\net8.0\CriativeSol.Infra.Data.deps.json
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\bin\Debug\net8.0\CriativeSol.Infra.Data.dll
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\bin\Debug\net8.0\CriativeSol.Infra.Data.pdb
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\bin\Debug\net8.0\CriativeSol.Domain.dll
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\bin\Debug\net8.0\CriativeSol.Domain.pdb
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\CriativeSol.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\CriativeSol.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\CriativeSol.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\CriativeSol.Infra.Data.AssemblyInfo.cs
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\CriativeSol.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\Criative.FEC1A056.Up2Date
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\CriativeSol.Infra.Data.dll
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\refint\CriativeSol.Infra.Data.dll
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\CriativeSol.Infra.Data.pdb
+C:\Users\carol\CriativeSol\CriativeSol.Infra.Data\obj\Debug\net8.0\ref\CriativeSol.Infra.Data.dll

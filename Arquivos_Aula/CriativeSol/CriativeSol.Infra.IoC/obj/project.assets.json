@@ -1,0 +1,138 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CriativeSol.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CriativeSol.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CriativeSol.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CriativeSol.Application.dll": {}
+        }
+      },
+      "CriativeSol.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CriativeSol.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CriativeSol.Domain.dll": {}
+        }
+      },
+      "CriativeSol.Infra.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CriativeSol.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CriativeSol.Infra.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CriativeSol.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CriativeSol.Application/1.0.0": {
+      "type": "project",
+      "path": "../CriativeSol.Application/CriativeSol.Application.csproj",
+      "msbuildProject": "../CriativeSol.Application/CriativeSol.Application.csproj"
+    },
+    "CriativeSol.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CriativeSol.Domain/CriativeSol.Domain.csproj",
+      "msbuildProject": "../CriativeSol.Domain/CriativeSol.Domain.csproj"
+    },
+    "CriativeSol.Infra.Data/1.0.0": {
+      "type": "project",
+      "path": "../CriativeSol.Infra.Data/CriativeSol.Infra.Data.csproj",
+      "msbuildProject": "../CriativeSol.Infra.Data/CriativeSol.Infra.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CriativeSol.Application >= 1.0.0",
+      "CriativeSol.Domain >= 1.0.0",
+      "CriativeSol.Infra.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\carol\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\carol\\CriativeSol\\CriativeSol.Infra.IoC\\CriativeSol.Infra.IoC.csproj",
+      "projectName": "CriativeSol.Infra.IoC",
+      "projectPath": "C:\\Users\\carol\\CriativeSol\\CriativeSol.Infra.IoC\\CriativeSol.Infra.IoC.csproj",
+      "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carol\\CriativeSol\\CriativeSol.Infra.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\carol\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\carol\\CriativeSol\\CriativeSol.Application\\CriativeSol.Application.csproj": {
+              "projectPath": "C:\\Users\\carol\\CriativeSol\\CriativeSol.Application\\CriativeSol.Application.csproj"
+            },
+            "C:\\Users\\carol\\CriativeSol\\CriativeSol.Domain\\CriativeSol.Domain.csproj": {
+              "projectPath": "C:\\Users\\carol\\CriativeSol\\CriativeSol.Domain\\CriativeSol.Domain.csproj"
+            },
+            "C:\\Users\\carol\\CriativeSol\\CriativeSol.Infra.Data\\CriativeSol.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\carol\\CriativeSol\\CriativeSol.Infra.Data\\CriativeSol.Infra.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\carol\CriativeSol\CriativeSol.Domain\bin\Debug\net8.0\CriativeSol.Domain.deps.json
+C:\Users\carol\CriativeSol\CriativeSol.Domain\bin\Debug\net8.0\CriativeSol.Domain.dll
+C:\Users\carol\CriativeSol\CriativeSol.Domain\bin\Debug\net8.0\CriativeSol.Domain.pdb
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\CriativeSol.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\CriativeSol.Domain.AssemblyInfoInputs.cache
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\CriativeSol.Domain.AssemblyInfo.cs
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\CriativeSol.Domain.csproj.CoreCompileInputs.cache
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\CriativeSol.Domain.dll
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\refint\CriativeSol.Domain.dll
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\CriativeSol.Domain.pdb
+C:\Users\carol\CriativeSol\CriativeSol.Domain\obj\Debug\net8.0\ref\CriativeSol.Domain.dll
